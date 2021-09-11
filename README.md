@@ -1,6 +1,6 @@
 # VirTuAula-Documentación
 <p align="center">
-   <img src="https://cdn.discordapp.com/attachments/828784442293485578/886304522916483132/output-onlinepngtools_2.png" alt="Logo"/>
+   <img src="https://cdn.discordapp.com/attachments/828784442293485578/886306386294734900/output-onlinepngtools_.png" alt="Logo"/>
 </p>
 
 * Documentación de la aplicación VirTuAula creada por Charly Zolezzi y Germán Cabrera para el TTIP de la Universidad Nacional de Quilmes.
