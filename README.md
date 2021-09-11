@@ -5,5 +5,5 @@
 
 * Documentación de la aplicación VirTuAula creada por Charly Zolezzi y Germán Cabrera para el TTIP de la Universidad Nacional de Quilmes.
 
-* [Backend](https://github.com/zolezzi/VirTuAula)
-* [Frontend](https://github.com/zolezzi/VirTuAula-ui)
+* :computer: [Backend](https://github.com/zolezzi/VirTuAula)
+* :computer: [Frontend](https://github.com/zolezzi/VirTuAula-ui)
