@@ -1,3 +1,9 @@
 site_name: Documentación de VirTuAula
 
+nav:
+  - VirTuAula: 'index.md'
+  - 'Documento':
+    - 'Document Game Design': 'document-design.md'
+  - Acerca de: 'about.md'
+
 theme: readthedocs
