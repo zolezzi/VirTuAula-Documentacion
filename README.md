@@ -1,4 +1,4 @@
-# VirTuAula-Documentación ![GitHub](https://img.shields.io/github/license/zolezzi/VirTuAula?color=green)
+# VirTuAula-Documentación ![GitHub](https://img.shields.io/github/license/zolezzi/VirTuAula?color=green) [![Documentation Status](https://readthedocs.org/projects/virtuaula-documentacion/badge/?version=latest)](https://virtuaula-documentacion.readthedocs.io/en/latest/?badge=latest)
 <p align="center">
    <img src="https://cdn.discordapp.com/attachments/828784442293485578/886246124103532584/unknown.png" alt="Logo"/>
 </p>
