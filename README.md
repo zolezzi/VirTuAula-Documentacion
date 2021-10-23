@@ -22,7 +22,7 @@
 * Para más información puede ver nuestro [Read the docs](https://virtuaula-documentacion.readthedocs.io/en/latest/)
 
 ## Wiki
-* Puedes encontrar mucho más información de documentación [Wiki](https://github.com/tu/proyecto/wiki)
+* Puedes encontrar mucho más información de documentación [Wiki](https://github.com/zolezzi/VirTuAula-Documentacion/wiki)
 
 ## Licencia
 * Este proyecto está bajo la Licencia [GNU General Public License v3.0](https://github.com/zolezzi/VirTuAula/blob/main/LICENSE) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
