@@ -10,3 +10,8 @@ DOCUMENTACIÓN DE VIRTUAULA
     :caption: Documentacion
 
     document-design
+	
+.. toctree::
+    :caption: Guia de usuario
+
+    guide-user
