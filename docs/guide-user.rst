@@ -9,6 +9,8 @@ Ingresar:
 
 puede ingresar a la URL de la web app.
 
+##Podemos ver Home de la app |home!|
+
 Registro y Datos personales
 ---------------------------
 
@@ -24,6 +26,14 @@ Debemos ir a la sección de *Add players* |Carga de jugadores!|
 
 Luego podemos ver un botón para cargar un archivo de formato CSV |boton
 y preview!|
+
+Ver teams creados
+-----------------
+
+Debemos ir a la sección de *Teams* |Ver teams!|
+
+Luego podemos ver un botón para cargar un archivo de formato CSV |teams
+cargados!|
 
 Crear una partida
 -----------------
@@ -62,10 +72,13 @@ Progreso de una partida
 El *Player* podrás ver el progreso de la partida. |Ver progreso de una
 partida!|
 
+.. |home!| image:: https://media.discordapp.net/attachments/908789372759978018/916661311285395476/unknown.png?width=1010&height=473
 .. |datos de la cuenta!| image:: https://media.discordapp.net/attachments/828784442293485578/908830644128321556/unknown.png?width=964&height=473
 .. |datos de la cuenta!| image:: https://media.discordapp.net/attachments/828784442293485578/908831574500454421/unknown.png?width=968&height=473
 .. |Carga de jugadores!| image:: https://media.discordapp.net/attachments/828784442293485578/908830644128321556/unknown.png?width=964&height=473
 .. |boton y preview!| image:: https://media.discordapp.net/attachments/828784442293485578/908831152427651082/unknown.png?width=972&height=473
+.. |Ver teams!| image:: https://media.discordapp.net/attachments/908789372759978018/916668176874491915/unknown.png?width=784&height=473
+.. |teams cargados!| image:: https://media.discordapp.net/attachments/908789372759978018/916668063372435516/unknown.png?width=1025&height=473
 .. |Crear una partida!| image:: https://media.discordapp.net/attachments/828784442293485578/908830875138031646/unknown.png?width=970&height=473
 .. |Crear una campaña!| image:: https://media.discordapp.net/attachments/828784442293485578/908830959581929513/unknown.png?width=968&height=473
 .. |Crear una mision!| image:: https://media.discordapp.net/attachments/828784442293485578/908831040569737307/unknown.png?width=966&height=473

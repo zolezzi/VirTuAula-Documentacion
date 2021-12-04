@@ -5,6 +5,9 @@
 ## Ingresar: 
 puede ingresar a la URL de la web app.
 
+##Podemos ver Home de la app
+![home!](https://media.discordapp.net/attachments/908789372759978018/916661311285395476/unknown.png?width=1010&height=473)
+
 ## Registro y Datos personales
 El registro lo debe hacer una persona mayor de edad el cual tendrá que poner su username, email y password.
 ![datos de la cuenta!](https://media.discordapp.net/attachments/828784442293485578/908830644128321556/unknown.png?width=964&height=473)
@@ -17,6 +20,13 @@ Debemos ir a la sección de *Add players*
 
 Luego podemos ver un botón para cargar un archivo de formato CSV 
 ![boton y preview!](https://media.discordapp.net/attachments/828784442293485578/908831152427651082/unknown.png?width=972&height=473)
+
+## Ver teams creados
+Debemos ir a la sección de *Teams*
+![Ver teams!](https://media.discordapp.net/attachments/908789372759978018/916668176874491915/unknown.png?width=784&height=473)
+
+Luego podemos ver un botón para cargar un archivo de formato CSV 
+![teams cargados!](https://media.discordapp.net/attachments/908789372759978018/916668063372435516/unknown.png?width=1025&height=473)
 
 ## Crear una partida
 Debemos hacer click en el butón *Add new Game*
